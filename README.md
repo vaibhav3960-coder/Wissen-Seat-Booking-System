@@ -28,7 +28,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
    ```bash
    git clone https://github.com/vaibhav3960-coder/Wissen-Seat-Booking-System.git
    cd Wissen-Seat-Booking-System
-   ```
+   ```![831DFB8B-35B3-4D84-A44B-CF1CCAE61976_1_201_a](https://github.com/user-attachments/assets/ced5eb74-e0a0-43f7-b7f8-4d64554f237f)
+
 
 2. Install dependencies:
    ```bash
