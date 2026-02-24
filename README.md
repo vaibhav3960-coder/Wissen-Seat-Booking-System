@@ -2,7 +2,7 @@
 
 A fully interactive, glassmorphism-inspired Seat Booking web application developed as an interview task. Built with **React** and **Vite**.
 
-![App Screenshot](./public/screenshots/dashboard.jpeg) <!-- ⚠️ IMPORTANT: PLACE A SCREENSHOT OF THE APP HERE -->
+![App Screenshot](./dashboard.JPEG) <!-- ⚠️ IMPORTANT: PLACE A SCREENSHOT OF THE APP HERE -->
 
 ## 🚀 Features Core Logic
 - **Capacity Management**: Handles 50 total office seats (40 assigned batches + 10 floaters).
